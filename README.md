@@ -13,4 +13,14 @@
 
 ###CrazyCat实现版本的基本效果
 
+Logo    它是一只具有魔性的猫，当然也有些神经！
 
+![logo](http://chuantu.biz/t2/11/1438917410x-1566638270.png)
+
+Welcome    欢迎你！
+
+![welcome](http://chuantu.biz/t2/11/1438917469x-1376440251.jpg)
+
+Index     play now！
+
+![welcome](http://chuantu.biz/t2/11/1438917551x-1376440251.jpg)
